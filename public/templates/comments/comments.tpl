@@ -8,7 +8,7 @@
 			<!-- ENDIF isLoggedIn -->
 		</div>
 		<form action="{relative_path}/comments/reply" method="post">
-			<textarea id="nodebb-content" class="form-control" name="content" placeholder="goed gedaan schrijver!!!" rows="3"></textarea>
+			<textarea id="nodebb-content" class="form-control" name="content" rows="3"></textarea>
 		<!-- IF isLoggedIn -->
 			<small>Ingelogd als <strong>{user.username}</strong>. <strong id="nodebb-error"></strong></small>
 			<button class="btn btn-primary">Plaats</button>
