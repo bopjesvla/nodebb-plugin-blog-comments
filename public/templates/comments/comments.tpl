@@ -74,7 +74,7 @@
 	<!-- ENDIF atBottom -->
 
 	<small class="nodebb-copyright">Wees goed &bull; <a href="{relative_path}/topic/{tid}">Reacties in volle glorie</a></small>
-	<button class="btn btn-primary" <!-- IF !posts.length -->style="display: none"<!-- ENDIF !posts.length --> id="nodebb-load-more">Load more comments...</button>
+	<button class="btn btn-primary" <!-- IF !posts.length -->style="display: none"<!-- ENDIF !posts.length --> id="nodebb-load-more">Meer</button>
 <!-- ELSE -->
 	Commenting has been disabled.
 	<!-- IF isAdmin -->
