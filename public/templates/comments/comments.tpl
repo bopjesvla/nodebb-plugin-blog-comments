@@ -18,8 +18,8 @@
 		</form>
 		<!-- ELSE -->
 		</form>
-		<button class="btn btn-primary" id="nodebb-register">Register</button>
-		<button class="btn btn-primary" id="nodebb-login">Login</button>
+		<button class="btn btn-primary" id="nodebb-register">Registreer</button>
+		<button class="btn btn-primary" id="nodebb-login">Log in</button>
 		<br />
 		<!-- ENDIF isLoggedIn -->
 	<!-- ENDIF atTop -->
